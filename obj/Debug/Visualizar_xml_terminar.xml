@@ -1,0 +1,98 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Visualizar_xml_terminar
+</name>
+</assembly>
+<members>
+<member name="T:Visualizar_xml_terminar.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.azul_degrade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.cert_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.degrade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.login_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visualizar_xml_terminar.My.Resources.Resources.preço">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Visualizar_xml_terminar.CertificadoDigital.Assinar(System.Xml.XmlDocument,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2)">
+ <summary>
+ Função retirada do UNINFE - http://www.unimake.com.br/uninfe/
+ Modificada por Giovanni - Try Ideas - www.tryideas.com.br para exemplo no Blog www.entendendo.net
+
+ O método assina digitalmente o arquivo XML passado por parâmetro e
+ grava o XML assinado com o mesmo nome, sobreponto o XML informado por parâmetro.
+ Disponibiliza também uma propriedade com uma string do xml assinado (this.vXmlStringAssinado)
+ </summary>
+ <param name="pArqXMLAssinar">Nome do arquivo XML a ser assinado</param>
+ <param name="pUri">URI (TAG) a ser assinada</param>
+ <param name="pCertificado">Certificado a ser utilizado na assinatura</param>
+ <remarks>
+ Podemos pegar como retorno do método as seguintes propriedades:
+
+ - Atualiza a propriedade this.vXMLStringAssinado com a string de
+ xml já assinada
+
+ - Grava o XML sobreponto o informado para o método com o conteúdo
+ já assinado
+
+ - Atualiza as propriedades this.vResultado e
+ this.vResultadoString com os seguintes valores:
+
+ 0 - Assinatura realizada com sucesso
+ 1 - Erro: Problema ao acessar o certificado digital - %exceção%
+ 2 - Problemas no certificado digital
+ 3 - XML mal formado + %exceção%
+ 4 - A tag de assinatura %pUri% não existe
+ 5 - A tag de assinatura %pUri% não é unica
+ 6 - Erro ao assinar o documento - %exceção%
+ 7 - Falha ao tentar abrir o arquivo XML - %exceção%
+ </remarks>
+</member>
+<member name="M:Visualizar_xml_terminar.funcoesNfe.novaTag(System.Reflection.PropertyInfo)">
+ <summary>
+ Função que utilizo para saber se é uma propriedade simples (String, Int) ou uma nova classe, que deve gerar
+ uma nova tag xml
+ </summary>
+ <param name="propriedade"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

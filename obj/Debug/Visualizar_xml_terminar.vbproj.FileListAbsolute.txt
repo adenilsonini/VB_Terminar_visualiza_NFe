@@ -1,0 +1,99 @@
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe.config
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmxml.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.Resources.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.GenerateResource.Cache
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbprojResolveAssemblyReference.cache
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.pdb
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.xml
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmcalcpreco.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmdanfe.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frminfo.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmpesquisarnfe.resources
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.exe
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.xml
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.pdb
+C:\Users\adeni\Documents\Visual Studio 2013\Projects\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlogin.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe.config
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.exe
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.xml
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.pdb
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.pdb
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.xml
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\adodb.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmcalcpreco.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmdanfe.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frminfo.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlogin.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmpesquisarnfe.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmxml.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.Resources.resources
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.GenerateResource.Cache
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe.config
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.exe
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.xml
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.pdb
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.pdb
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.xml
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\adodb.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbprojResolveAssemblyReference.cache
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmcalcpreco.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmdanfe.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frminfo.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlogin.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmpesquisarnfe.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmxml.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.Resources.resources
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.GenerateResource.Cache
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.xml
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.xml
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\MySQL.Data.dll
+C:\Users\adeni\OneDrive\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlicenca.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe.config
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.exe
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.xml
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.pdb
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.exe
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.pdb
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\Visualizar_xml_terminar.xml
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\adodb.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.EF6.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.Linq.dll
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.xml
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.xml
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.xml
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbprojResolveAssemblyReference.cache
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmcalcpreco.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmdanfe.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frminfo.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlicenca.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmlogin.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmpesquisarnfe.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.frmxml.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.Resources.resources
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.GenerateResource.Cache
+F:\vb_projetos\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\MySQL.Data.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbprojAssemblyReference.cache
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.CoreCompileInputs.cache
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.EF6.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.Linq.dll
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.xml
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\EntityFramework.SqlServer.xml
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.xml
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\bin\Debug\System.Data.SQLite.dll.config
+D:\projetos_do_vb.net\Visualizar_xml_terminar\Visualizar_xml_terminar\obj\Debug\Visualizar_xml_terminar.vbproj.CopyComplete
